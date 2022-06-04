@@ -1,4 +1,11 @@
-### Hi there 👋
+![Andres's GitHub Banner](./img/andresyebra_bg.png)
+
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/andresyebrac/)
+
+Hey there 👋
+
+I’m Andres, a Ruby Developer 🚀
 
 <!--
 **andresyebra/andresyebra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
