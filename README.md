@@ -2,10 +2,11 @@
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/andresyebrac/)
+[![Stackoverflow Badge](https://img.shields.io/badge/Stackoverlow-Profile-informational?style=flat&logo=stackoverflow&logoColor=white&color=f48225)](https://stackoverflow.com/users/19544242/andres-yebra-cervantes)
 
 Hey there 👋
 
-I’m Andres, a Ruby Developer 🚀
+I’m Andres, a Ruby Developer. I’m currently learning Elixir 🚀
 
 <!--
 **andresyebra/andresyebra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
