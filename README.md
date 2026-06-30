@@ -7,7 +7,7 @@
 
 Hey there 👋
 
-I’m Andres, a Ruby Developer. I’m currently learning Elixir 🚀
+I’m Andres, a Ruby Developer. I’m currently learning Rust 🦀
 
 <!--
 **andresyebra/andresyebra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
