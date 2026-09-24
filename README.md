@@ -7,5 +7,5 @@
 
 Hey there 👋
 
-I’m Andres, a Ruby Developer. I’m currently learning Rust 🦀
+I’m Andres, a Ruby Developer.
 
